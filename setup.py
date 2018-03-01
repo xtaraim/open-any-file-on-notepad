@@ -6,7 +6,7 @@
 >>> content = helloFile.read()
 >>> print(content)
 Hello world!
-How are you?
+How are you ?
 >>> helloFile.close()
 >>> helloFile = open('c:\\users\\kiit1\\hello.txt')
 >>> helloFile.readlines()
